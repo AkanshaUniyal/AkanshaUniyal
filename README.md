@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AkanshaUniyal
 - 👀 I’m interested in Front-end Web Development and JAVA
-- 🌱 I’m currently pursuing Btech CSE from GBPIET, Pauri garhwal and BSc Data Science from IIT Madras.
+- 🌱 I have completed Btech CSE from GBPIET, Pauri garhwal and am pursuing BS in Data Science and Applications from IIT Madras.
 - 💞️ I’m looking to collaborate on new open source opportunities.
 - 📫 How to reach me-
 - **Linkedin** - https://www.linkedin.com/in/akansha-uniyal-5473bb204/
