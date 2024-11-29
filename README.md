@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AkanshaUniyal
-- 👀 I’m interested in Front-end Web Development and JAVA
+- 👀 I’m interested in Front-end Web Development and JAVA and Data Analytics
 - 🌱 I have completed Btech CSE from GBPIET, Pauri garhwal and am pursuing BS in Data Science and Applications from IIT Madras.
 - 💞️ I’m looking to collaborate on new open source opportunities.
 - 📫 How to reach me-
